@@ -1,16 +1,36 @@
-## Hi there 👋
+# Abhishek Agrawal
 
-<!--
-**Ab3229/Ab3229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Abhishek — a Computer Science student at MBM University, Jodhpur.  
+🚀 Passionate about Web Development, Open Source, and Practical Tech Projects.  
+🎯 Currently learning full-stack development and working on real-world web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+
+- **Languages:** C++, JavaScript, Python
+- **Frontend:** HTML, CSS, Bootstrap, ReactJS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+## 📌 My Projects on GitHub
+
+| Repository                        | Description                                                   |
+|----------------------------------|---------------------------------------------------------------|
+| [portfolio-website](https://github.com/Ab3229/portfolio-website) | Personal portfolio showcasing skills and projects           |
+| [Pizza-Website](https://github.com/Ab3229/Pizza-Website)         | A creative landing page for a pizza ordering website        |
+| [april-fool](https://github.com/Ab3229/april-fool)               | Fun April Fool's prank project with creative front-end      |
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [github.com/Ab3229](https://github.com/Ab3229)
+- **LinkedIn:** [linkedin.com/in/abhishek-agrawal](https://linkedin.com/in/abhishek-agrawal)
+- **LeetCode:** [leetcode.com/u/AbhiTech99](https://leetcode.com/u/AbhiTech99)
+
+---
+
+> “Code. Learn. Build. Repeat.”
