@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+on:
+  schedule: # Run every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master # The GitHub Action for snake animation
+        id: snake-gif # Give it an ID
+        with:
+          github_user_name: Ab3229
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif # You can also generate a GIF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required for permissions
+
+      - name: Push new files to repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
+          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake-dark.gif
+          git commit -m "Generate snake animation" || echo "No changes to commit"
+          git push
