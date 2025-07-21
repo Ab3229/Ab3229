@@ -22,6 +22,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake.gif
              background: "#000000"  # 🖤
+              color_grid: "#333333"  
       - name: Push snake animation
         uses: EndBug/add-and-commit@v9
         with:
