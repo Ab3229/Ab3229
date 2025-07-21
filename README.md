@@ -37,4 +37,4 @@
 ![GitHub Snake gif](https://raw.githubusercontent.com/Ab3229/Ab3229/main/dist/github-snake.gif)
 
 
-> “Code. Learn. Build. Repeat.”
+ “Code. Learn. Build. Repeat.”
