@@ -28,7 +28,7 @@
 ## 📫 Let's Connect
 
 - **GitHub:** [github.com/Ab3229](https://github.com/Ab3229)
-- **LinkedIn:** [linkedin.com/in/abhishek-agrawal](linkedin.com/in/abhishek-agrawal-77a69632a)
+- **LinkedIn:** [linkedin.com/in/abhishek-agrawal](https://www.linkedin.com/in/abhishek-agrawal-77a69632a/)
 - **LeetCode:** [leetcode.com/u/AbhiTech99](https://leetcode.com/u/AbhiTech99)
 
 ---
