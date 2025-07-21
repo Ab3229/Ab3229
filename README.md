@@ -34,6 +34,7 @@
 ---
  ### My GitHub Contribution Snake
 
-![github-contribution-grid-snake](https://github.com/Ab3229/Ab3229/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake gif](https://raw.githubusercontent.com/Ab3229/Ab3229/main/dist/github-snake.gif)
+
 
 > “Code. Learn. Build. Repeat.”
