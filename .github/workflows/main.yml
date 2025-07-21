@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate snake animation 
         uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -21,8 +21,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake.gif
-             background: "#000000"  # 🖤
-              color_grid: "#333333"  
+            background: "#0d1117"          
+          color_snake: "#cc00ff"          
+          color_dots: "#161b22"           
+          color_grid: "#21262d"           
+
       - name: Push snake animation
         uses: EndBug/add-and-commit@v9
         with:
