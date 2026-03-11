@@ -32,9 +32,7 @@
 - **LeetCode:** [leetcode.com/u/AbhiTech99](https://leetcode.com/u/AbhiTech99)
 
 ---
- ### My GitHub Contribution Snake
 
-![GitHub Snake gif](https://raw.githubusercontent.com/Ab3229/Ab3229/main/dist/github-snake.gif)
 
 
  “Code. Learn. Build. Repeat.”
