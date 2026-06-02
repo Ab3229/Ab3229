@@ -66,14 +66,6 @@ A content-based movie recommendation system that suggests similar movies using m
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ab3229&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab3229&layout=compact)
-
----
-
 ### 💡 Quote
 
 > **"Train. Learn. Build. Improve. Repeat."**
