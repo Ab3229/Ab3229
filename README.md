@@ -32,17 +32,6 @@ I'm a Computer Science student at MBM University, Jodhpur, passionate about Mach
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Movie Recommendation System
-A content-based movie recommendation system that suggests similar movies using machine learning techniques.
-
-**Tech Stack:** Python, Pandas, Scikit-Learn, Flask
-
-🔗 Project Link: https://movie-recommendation-system-a95j.onrender.com/
-
----
-
 
 
 ## 📚 Currently Learning
